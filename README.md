@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-vindhyavasini/
+medicalstore/
 ├── index.php                        # Home page
 ├── about.php                        # About Us
 ├── contact.php                      # Contact page
